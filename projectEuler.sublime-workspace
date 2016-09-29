@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"maxForTh"
+			],
+			[
+				"mat",
+				"matrPow"
+			],
+			[
+				"mul",
+				"multMatr"
+			],
+			[
+				"com",
+				"computeCount"
+			],
+			[
+				"find",
+				"findByPos"
+			],
+			[
+				"fid",
+				"findByPos"
+			],
+			[
+				"fi",
+				"findDig"
+			],
+			[
+				"isT",
+				"isTruncatablePrime"
+			],
+			[
+				"trun",
+				"trunkRight"
+			],
+			[
+				"bit",
+				"bitToMove"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"prin",
+				"printNext"
+			],
+			[
+				"an",
+				"ansId"
+			],
+			[
+				"serve",
+				"server_path"
+			],
+			[
+				"ser",
+				"servicenode"
+			],
+			[
+				"m",
+				"managementnode"
+			],
+			[
+				"partial",
+				"partialPresence"
+			],
+			[
+				"sc",
+				"scLow	int ν"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"hi",
+				"high	Player ν"
+			],
+			[
+				"p",
+				"Print	n int, err error ƒ"
+			],
+			[
+				"hig",
+				"high	Player ν"
+			],
+			[
+				"play",
+				"player2	Player ν"
+			],
+			[
+				"P",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"pri",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"score",
+				"scoreName	string ν"
+			],
+			[
+				"pla",
+				"player2	Player ν"
+			],
+			[
+				"Pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"fu",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			],
+			[
+				"g",
+				"github"
+			],
+			[
+				"strin",
+				"stringutil"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					""
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Clean Build"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Tests"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Tagged Tests"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Test at Cursor"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Current Package Tests"
+				],
+				[
+					"Packages/GoTools/GoTools.sublime-build",
+					"Run Last Test"
+				],
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoTools/GoTools.sublime-build",
+				"Clean Build"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pep",
+		"selected_items":
+		[
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ctags: ",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"CTAGS:",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"re",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"rebu",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Activate 9o"
+			],
+			[
+				"GoSublime: run",
+				"GoSublime: Run build command"
+			],
+			[
+				"GoSublime: bui",
+				"GoSublime: Run build command"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aivanou/study/code/projectEuler/problem7.py",
+		"/Users/aivanou/study/code/projectEuler/problem34.py",
+		"/Users/aivanou/study/code/projectEuler/problem35.py",
+		"/Users/aivanou/study/code/projectEuler/problem36.py",
+		"/Users/aivanou/study/code/projectEuler/problem37.py",
+		"/Users/aivanou/study/code/projectEuler/problem47.py",
+		"/Users/aivanou/study/code/projectEuler/problem38.py",
+		"/Users/aivanou/study/code/projectEuler/euler.py",
+		"/Users/aivanou/study/code/projectEuler/problem46.py",
+		"/Users/aivanou/study/code/projectEuler/problem39.py",
+		"/Users/aivanou/study/code/projectEuler/problem40.py",
+		"/Users/aivanou/study/code/projectEuler/problem41.py",
+		"/Users/aivanou/study/code/projectEuler/problem22.py",
+		"/Users/aivanou/study/code/projectEuler/problem42.py",
+		"/Users/aivanou/study/code/projectEuler/problem43.py",
+		"/Users/aivanou/study/code/projectEuler/problem44.py",
+		"/Users/aivanou/study/code/projectEuler/problem549.py",
+		"/Users/aivanou/study/code/projectEuler/problem67.py",
+		"/Users/aivanou/study/code/projectEuler/problem18.py",
+		"/Users/aivanou/study/code/projectEuler/problem16.py",
+		"/Users/aivanou/study/code/projectEuler/problem15.py",
+		"/Users/aivanou/study/code/projectEuler/problem14.py",
+		"/Users/aivanou/study/code/projectEuler/problem12.py",
+		"/Users/aivanou/study/code/projectEuler/problem11.py",
+		"/Users/aivanou/study/code/projectEuler/p11.txt",
+		"/Users/aivanou/study/code/projectEuler/problem24.py",
+		"/Users/aivanou/study/code/projectEuler/problem23.py",
+		"/Users/aivanou/study/code/projectEuler/problem21.py",
+		"/Users/aivanou/study/code/projectEuler/problem25.py",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/aivanou/study/code/projectEuler/problem9.py",
+		"/Users/aivanou/study/code/projectEuler/problem10.py",
+		"/Users/aivanou/study/code/projectEuler/problem28.py",
+		"/Users/aivanou/study/code/projectEuler/problem29.py",
+		"/Users/aivanou/study/code/projectEuler/problem30.py",
+		"/Users/aivanou/study/code/projectEuler/problem31.py",
+		"/Users/aivanou/study/code/projectEuler/problem32.py",
+		"/Users/aivanou/work/server/deviceconfig/java/com/telepo/device/config/TelepoFeatureType.java",
+		"/Users/aivanou/study/code/projectEuler/problem17.py",
+		"/Users/aivanou/study/code/projectEuler/problem7",
+		"/Users/aivanou/temp/units.xml",
+		"/Users/aivanou/temp/system.xml",
+		"/Users/aivanou/Documents/test1.py",
+		"/Users/aivanou/study/hadoop/hadoop-2.6.4/etc/hadoop/mapred-site.xml.template",
+		"/Users/aivanou/study/code/ml/test.py",
+		"/Users/aivanou/work/fetch.sh",
+		"/Users/aivanou/work/run.sh",
+		"/Users/aivanou/work/soptphone_crash.txt",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/aivanou/work/server/callcontroller/java/com/telepo/api/contact/ContactAPI.java",
+		"/Users/aivanou/study/code/ml/test2.py",
+		"/Users/aivanou/study/code/ml/test.java",
+		"/Users/aivanou/study/code/algorithms/i.txt",
+		"/Users/aivanou/work/server/core/java/com/telepo/core/organization/impl/UserManagerImpl.java.orig",
+		"/Users/aivanou/study/code/ml/Philadelphia_Crime_Rate_noNA.csv",
+		"/Users/aivanou/study/ml/test.py",
+		"/test.py",
+		"/Users/aivanou/test.txt",
+		"/Users/aivanou/work/server/callcontroller/java/com/telepo/callcontroller/aliases/impl/UserDefinedDestinationServiceImpl.java",
+		"/Users/aivanou/work/server/common/install/db/bootstrap.sql",
+		"/Users/aivanou/work/server/callcontroller/java/com/telepo/api/aliases/AllowedUserLinesDTO.java",
+		"/Users/aivanou/work/server/core/derived/java/src/java/com/telepo/core/dao/DaoImpl.java",
+		"/Users/aivanou/work/server/managementnode/conf/managementnode.xml",
+		"/Users/aivanou/work/server/managementnode/conf/server.xml",
+		"/Users/aivanou/work/server/edgenode/conf/server.xml",
+		"/Users/aivanou/work/server/servicenode/conf/servicenode.properties",
+		"/Users/aivanou/work/server/cm/bin/install_full_system.sh",
+		"/Users/aivanou/work/server/cm/bin/t.sh",
+		"/Users/aivanou/work/server/cm/bin/do_full_system_installation.sh",
+		"/Users/aivanou/work/server/managementnode/conf/managementnode.properties",
+		"/Users/aivanou/work/server/edgenode/conf/dev.edgeproxy.properties",
+		"/Users/aivanou/work/server/servicenode/conf/server.xml",
+		"/Users/aivanou/work/server/servicenode/conf/servicenode.xml",
+		"/Users/aivanou/work/server/core/model/core.xml",
+		"/Users/aivanou/work/server/servicenode/conf/dev.servicenode.properties",
+		"/Users/aivanou/work/server/managementnode/conf/dev.managementnode.properties",
+		"/Users/aivanou/work/server/cm/bin/install_funcs.sh",
+		"/Users/aivanou/work/server/edgenode/conf/log4j.xml",
+		"/Users/aivanou/work/server/managementnode/conf/log4j.xml",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/aivanou/study/code/dropwizard/dropwizard-example/src/main/java/com/example/helloworld/resources/FilteredResource.java",
+		"/Users/aivanou/work/server/callcontroller/java/com/telepo/api/remote/RemoteControlAPI.java",
+		"/Users/aivanou/work/server/cm/resources/api_ticket.sql",
+		"/Users/aivanou/Downloads/server.cfg",
+		"/Users/aivanou/work/server/web_admin/web/i18n/enduser/messages.properties",
+		"/Users/aivanou/work/server/basejava/java/com/telepo/core/thread/LifecycleExecutorManager.java",
+		"/Users/aivanou/work/server/API",
+		"/Users/aivanou/test",
+		"/Users/aivanou/work/server/basejava/java/com/telepo/core/thread/test/SimpleExecutorManager.java",
+		"/Users/aivanou/work/server/web_admin/java/com/telepo/gwt/service/TopicServiceImpl.java",
+		"/Users/aivanou/work/server/.idea/copyright/profiles_settings.xml",
+		"/Users/aivanou/work/server/docs/BCS/source/webServiceAPI/default/index.user.xml",
+		"/Users/aivanou/work/server/callcontroller/java/com/telepo/api/useradmin/UserAdminAPI.java",
+		"/Users/aivanou/work/server/servicenode/java/com/telepo/servicenode/filter/XssStripFilter.java",
+		"/Users/aivanou/work/server/servicenode/conf/web.xml",
+		"/Users/aivanou/study/code/go/src/github.com/tierex/hello/untitled",
+		"/Users/aivanou/work/telepo/callcontroller/java/com/telepo/api/management/ServiceNodeManagementAPI.java",
+		"/Users/aivanou/work/server/t",
+		"/Users/aivanou/study/code/go/src/github.com/tierex/go_spark_kernel/main.go",
+		"/Users/aivanou/work/server/core/java/com/telepo/core/license/LicenseManager.java",
+		"/usr/local/go/src/bufio/bufio.go",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/usr/local/go/src/fmt/print.go",
+		"/usr/local/go/src/io/io.go",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-mousemap",
+		"/usr/local/go/src/fmt/doc.go",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/aivanou/study/code/go/src/github.com/tierex/stringutil/revert.go",
+		"/Users/aivanou/study/code/go/src/github.com/tierex/stringutil/revert_test.go",
+		"/Users/aivanou/study/code/go/src/github.com/tierex/hello/hello.go",
+		"/Users/aivanou/study/code/go/src/github.com/tierex/go_spark_kernel/socket.go",
+		"/Users/aivanou/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/usr/local/go/src/cmd/cgo/ast.go",
+		"/Users/aivanou/study/code/go/src/github.com/tierex/stringutil/reverse_test.go",
+		"/Users/aivanou/study/code/go/bin/hello",
+		"/Users/aivanou/study/code/go/worksheet.go",
+		"/Users/aivanou/study/code/go/untitled",
+		"/Users/aivanou/study/code/js/nodejs_tests/index.html",
+		"/Users/aivanou/study/code/js/nodejs_tests/static_server.js",
+		"/Users/aivanou/study/code/random_posts.py",
+		"/Users/aivanou/study/code/js/nodejs_tests/node_modules/path/random_posts.py",
+		"/Users/aivanou/study/code/js/nodejs_tests/node_modules/path/README.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"is_square",
+			"1",
+			"?",
+			"     ",
+			"    ",
+			"getSmallestNum",
+			"print",
+			"deviceconfig",
+			"yarn.scheduler.minimum-allocation-mb",
+			"brands",
+			"DMG",
+			"ssh_key",
+			"build",
+			"version",
+			"SP",
+			"ssh_key",
+			"getversion",
+			"PRODUCT",
+			"BUILDS",
+			"fs",
+			"CP_DEST",
+			"OPTARG",
+			"version",
+			"alias",
+			"HEJ",
+			"HEJ\\",
+			"read_cs",
+			"historyItem",
+			"history",
+			"log",
+			"aliasOut",
+			"alias",
+			"https",
+			"G",
+			"BBBGBBBBBBB",
+			"G",
+			"managementnode",
+			"servicenode",
+			"https",
+			"servicenode",
+			"managementnode",
+			"copyCertsToNode",
+			"server_path",
+			"servicenode",
+			"copyCertsToNode",
+			"managementnode",
+			"edgeproxy",
+			"enNode",
+			"$revert",
+			"revert",
+			"copyEdgeproxyCertsToNode",
+			"cert",
+			"servicenode",
+			"server.",
+			"https",
+			"servicenode.fqdn",
+			"mn",
+			"serviceNode.id",
+			"serviceNode.id\nserviceNode.id",
+			"serviceNode.id",
+			"id",
+			"servicenode",
+			"server.",
+			"server.http.port",
+			"/Users/aivanou/work/cert/http/",
+			"/Users/aivanou/work/server/edgenode/conf/cert/http/",
+			"edgeproxy.fqdn",
+			"../edgenode",
+			"edgeproxy",
+			"edgeproxy.security.log.level",
+			"servicenode",
+			"12000",
+			"resellerId",
+			"            <erm:attribute name=\"reseller\" type=\"name\" />\nreseller",
+			"reseller",
+			"centralisedReseller",
+			"<erm:sql update=\"true\">\n					INSERT INTO pluginSetting (organizationId, plugin, attribute, value) VALUES (\n						<erm:parameter name=\"organizationId\"/>,\n						<erm:parameter name=\"plugin\"/>,\n						<erm:parameter name=\"attribute\"/>,\n						<erm:parameter name=\"value\"/>)\n					ON DUPLICATE KEY UPDATE\n						plugin=<erm:parameter name=\"plugin\"/>,\n						attribute=<erm:parameter name=\"attribute\"/>,\n						value=<erm:parameter name=\"value\"/>\n				</erm:sql>\n				\n				<erm:sql>\n					SELECT 1 AS theone\n				</erm:sql>",
+			"update",
+			"centr",
+			"organization\"",
+			"organization",
+			"centralisedLicenseOrgDistribution",
+			"centralisedLicenseUserReservation",
+			"license",
+			"reseller",
+			"resellerId",
+			"getMatchingCentralisedLicenseResellerDistribution",
+			"countLicenseReservationsOrganizationCentr",
+			"centralisedLicenseResellerDistribution",
+			"								",
+			"							",
+			"						",
+			"					",
+			"				",
+			"			",
+			"	",
+			"licenseReservation",
+			"organizationI\"",
+			"organizationI",
+			"reserv",
+			"match",
+			"centr",
+			"reseller",
+			"name",
+			"cent",
+			"edgeNodeAddress",
+			"add",
+			"license",
+			" 5",
+			"softphone.plus.api",
+			"transport",
+			"Fetch",
+			"/presence",
+			"presence/partial",
+			"	",
+			"<command>domain</command>",
+			"\\t",
+			">",
+			"<",
+			"</",
+			"<",
+			"successfully",
+			">",
+			"<",
+			"piv",
+			")\n",
+			"high",
+			"if"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/aivanou/study/code/go/src/github.com/tierex/hello":
+	{
+		"height": 136.0
+	},
+	"output.9o:///Users/aivanou/study/code/go/src/github.com/tierex/stringutil":
+	{
+		"height": 136.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 136.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 136.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "projectEuler.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"problem49",
+				"~/study/code/projectEuler/problem549.py"
+			],
+			[
+				"",
+				"~/study/code/projectEuler/problem35.py"
+			],
+			[
+				"47",
+				"problem47.py"
+			],
+			[
+				"e",
+				"euler.py"
+			],
+			[
+				"46",
+				"problem46.py"
+			],
+			[
+				"35",
+				"problem35.py"
+			],
+			[
+				"549",
+				"problem549.py"
+			],
+			[
+				"44",
+				"problem44.py"
+			],
+			[
+				"43",
+				"problem43.py"
+			],
+			[
+				"42",
+				"problem42.py"
+			],
+			[
+				"22",
+				"problem22.py"
+			],
+			[
+				"7.py",
+				"problem7.py"
+			],
+			[
+				"41",
+				"problem41.py"
+			],
+			[
+				"40",
+				"problem40.py"
+			],
+			[
+				"39",
+				"problem39.py"
+			],
+			[
+				"37",
+				"problem37.py"
+			],
+			[
+				"36",
+				"problem36.py"
+			],
+			[
+				"34",
+				"problem34.py"
+			],
+			[
+				"32",
+				"problem32.py"
+			],
+			[
+				"31",
+				"problem31.py"
+			],
+			[
+				"30",
+				"problem30.py"
+			],
+			[
+				"p29",
+				"problem29.py"
+			],
+			[
+				"p25",
+				"problem25.py"
+			],
+			[
+				"p11",
+				"problem11.py"
+			],
+			[
+				"capa",
+				"hadoop-2.6.4/etc/hadoop/capacity-scheduler.xml"
+			],
+			[
+				"yarn-si",
+				"hadoop-2.6.4/etc/hadoop/yarn-site.xml"
+			],
+			[
+				"mapred-site",
+				"hadoop-2.6.4/etc/hadoop/mapred-site.xml"
+			],
+			[
+				"mapred-si",
+				"hadoop-2.6.4/etc/hadoop/mapred-site.xml.template"
+			],
+			[
+				"hdfs-si",
+				"hadoop-2.6.4/etc/hadoop/hdfs-site.xml"
+			],
+			[
+				"core",
+				"hadoop-2.6.4/etc/hadoop/core-site.xml"
+			],
+			[
+				"servicenode.pro",
+				"servicenode/conf/servicenode.properties"
+			],
+			[
+				"serve",
+				"servicenode/conf/server.xml"
+			],
+			[
+				"dev.ser",
+				"servicenode/conf/dev.servicenode.properties"
+			],
+			[
+				"dev.ma",
+				"managementnode/conf/dev.managementnode.properties"
+			],
+			[
+				"server.xml",
+				"managementnode/conf/server.xml"
+			],
+			[
+				"installation",
+				"docs/BCS/source/installation_and_upgrade/default/installation.xml"
+			],
+			[
+				"installation.xml",
+				"docs/BCS/source/installation_and_upgrade/default/installation.xml"
+			],
+			[
+				"management",
+				"managementnode/conf/managementnode.properties"
+			],
+			[
+				"server.xm",
+				"servicenode/conf/server.xml"
+			],
+			[
+				"dev.mana",
+				"managementnode/conf/dev.managementnode.properties"
+			],
+			[
+				"t",
+				"cm/bin/t.sh"
+			],
+			[
+				"t.s",
+				"cm/bin/t.sh"
+			],
+			[
+				"install_full_system.sh",
+				"cm/bin/install_full_system.sh"
+			],
+			[
+				"fullinstall",
+				"cm/bin/do_full_system_installation.sh"
+			],
+			[
+				"t.sh",
+				"cm/bin/t.sh"
+			],
+			[
+				"install_full",
+				"cm/bin/install_full_system.sh"
+			],
+			[
+				"install_fun",
+				"cm/bin/install_funcs.sh"
+			],
+			[
+				"mana",
+				"managementnode/conf/managementnode.properties"
+			],
+			[
+				"servicenode.xml",
+				"servicenode/conf/servicenode.xml"
+			],
+			[
+				"managem",
+				"managementnode/conf/managementnode.xml"
+			],
+			[
+				"managementnode.properties",
+				"managementnode/conf/managementnode.properties"
+			],
+			[
+				"log4",
+				"managementnode/conf/log4j.xml"
+			],
+			[
+				"dev.edge",
+				"edgenode/conf/dev.edgeproxy.properties"
+			],
+			[
+				"dev.ed",
+				"edgenode/conf/dev.edgeproxy.properties"
+			],
+			[
+				"server.",
+				"servicenode/conf/server.xml"
+			],
+			[
+				"dev.se",
+				"servicenode/conf/dev.servicenode.properties"
+			],
+			[
+				"daoimpl",
+				"core/derived/java/src/java/com/telepo/core/dao/DaoImpl.java"
+			],
+			[
+				"core.xm",
+				"core/model/core.xml"
+			],
+			[
+				"core.xml",
+				"core/model/core.xml"
+			],
+			[
+				"main",
+				"src/github.com/tierex/go_spark_kernel/main.go"
+			],
+			[
+				"ser",
+				"src/github.com/tierex/server/server.go"
+			],
+			[
+				"rev",
+				"src/github.com/tierex/stringutil/revert.go"
+			],
+			[
+				"hel",
+				"src/github.com/tierex/hello/hello.go"
+			],
+			[
+				"re",
+				"src/github.com/tierex/stringutil/revert_test.go"
+			],
+			[
+				"hell",
+				"bin/hello"
+			],
+			[
+				"reve",
+				"src/github.com/tierex/stringutil/revert.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
